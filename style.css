@@ -1,0 +1,141 @@
+
+@media (min-width: 576px){
+
+.header{
+    background-color: antiquewhite;
+    border: 1px solid darkgrey;
+    font-weight: bold;
+    margin: 0px;     
+    font-family: roboto;  
+    position: fixed;
+    padding: 0%;
+    width: 100%;
+    
+}
+nav{
+    display: flex;
+    justify-content: right; 
+}
+
+nav ul li{
+
+    display: inline-block;
+    list-style: none;
+    padding:  20px;
+    padding-top: 10%
+    
+    
+  
+}
+
+.nom{
+    padding-top: 25px;
+    padding-right: 60%;
+}
+
+
+.heros{
+    background-image: url(duo.jpg);
+    height: 650px;
+    border: 1px solid black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pres{
+   
+    font-family: roboto;
+    font-weight: bold;
+    padding-top: 15%;
+    font-style: italic;
+    padding-left: 2%;
+    color: blanchedalmond;
+    text-align: center;
+
+}
+.buton{
+    text-align: center;
+}
+.photo{
+    width: 250px;
+    height: 200px;
+    margin-top: 3%;
+    
+}
+.card-title{
+    font-weight: bold;
+    font-family: roboto;
+
+}
+.card-text{
+    font-family: roboto;
+    font-style: italic;
+
+}
+.button{
+    margin-bottom: 2%;
+}
+.formulaire{
+    margin-left: 20%;
+    padding: 30px;
+    margin-top: 20px;
+  
+   
+}
+
+.laire{
+    width: 500px;
+    height: 30px;
+    margin-bottom: 2%;
+}
+.lair{
+   width: 500px;
+   height: 150px;
+ 
+}
+.ll{
+    margin-top: 2%;
+}
+.pied{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    margin-top: 1%;
+}
+.pag2{
+    margin-left: 5%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
